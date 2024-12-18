@@ -265,6 +265,7 @@
       "bread": "2024-12-18 18:57:35 +0000",
       "rotten_flesh": "2024-12-18 18:45:04 +0000",
       "cooked_mutton": "2024-12-18 18:54:29 +0000",
+      "cooked_beef": "2024-12-18 21:56:12 +0000",
       "beef": "2024-12-18 18:50:36 +0000",
       "porkchop": "2024-12-18 18:49:55 +0000"
     },
@@ -1063,6 +1064,24 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-18 21:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-18 21:58:17 +0000"
     },
     "done": true
   },
