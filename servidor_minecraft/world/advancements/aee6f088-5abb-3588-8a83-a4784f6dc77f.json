@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 21:46:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-18 20:30:52 +0000"
@@ -667,6 +673,7 @@
     "criteria": {
       "bread": "2024-12-18 20:33:55 +0000",
       "rotten_flesh": "2024-12-18 20:56:48 +0000",
+      "cooked_mutton": "2024-12-18 21:43:04 +0000",
       "cooked_cod": "2024-12-18 21:39:39 +0000"
     },
     "done": false
