@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:beach": "2024-12-18 18:22:40 +0000",
       "minecraft:forest": "2024-12-18 18:58:21 +0000",
+      "minecraft:ocean": "2024-12-18 19:13:43 +0000",
       "minecraft:sunflower_plains": "2024-12-18 18:22:57 +0000",
       "minecraft:river": "2024-12-18 18:48:38 +0000",
       "minecraft:plains": "2024-12-18 18:22:47 +0000"
@@ -93,6 +94,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-18 18:50:17 +0000"
@@ -132,6 +139,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-18 18:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
     },
     "done": true
   },
@@ -369,6 +382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-18 18:52:45 +0000"
@@ -381,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-18 19:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-18 18:30:53 +0000"
@@ -390,6 +415,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-18 18:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-18 19:16:23 +0000"
     },
     "done": true
   },
@@ -441,9 +472,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2024-12-18 18:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-18 19:17:35 +0000"
     },
     "done": true
   },
@@ -547,6 +596,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 18:55:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
     },
     "done": true
   },
@@ -676,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2024-12-18 18:53:27 +0000"
@@ -709,6 +770,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-18 18:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-18 19:12:30 +0000"
     },
     "done": true
   },
