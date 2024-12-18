@@ -520,6 +520,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 18:56:46 +0000",
+      "minecraft:enderman": "2024-12-18 21:21:45 +0000",
       "minecraft:spider": "2024-12-18 18:57:58 +0000",
       "minecraft:zombie": "2024-12-18 18:55:07 +0000",
       "minecraft:zombie_villager": "2024-12-18 20:03:09 +0000"
