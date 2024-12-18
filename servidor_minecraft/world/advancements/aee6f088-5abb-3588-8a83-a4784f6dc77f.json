@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-12-18 23:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 22:50:21 +0000"
@@ -1121,6 +1127,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-18 23:38:00 +0000",
       "bread": "2024-12-18 20:33:55 +0000",
       "rotten_flesh": "2024-12-18 20:56:48 +0000",
       "cooked_mutton": "2024-12-18 21:43:04 +0000",
