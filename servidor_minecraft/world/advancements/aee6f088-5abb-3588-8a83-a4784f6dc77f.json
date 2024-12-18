@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-18 21:07:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-18 20:46:03 +0000"
@@ -175,8 +181,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-18 21:04:28 +0000",
       "minecraft:spider": "2024-12-18 20:47:51 +0000",
-      "minecraft:zombie": "2024-12-18 20:46:56 +0000"
+      "minecraft:zombie": "2024-12-18 20:46:56 +0000",
+      "minecraft:creeper": "2024-12-18 21:05:30 +0000"
     },
     "done": false
   },
@@ -263,6 +271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 21:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-18 20:33:55 +0000",
@@ -273,6 +287,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-18 20:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-18 21:12:41 +0000"
     },
     "done": true
   },
