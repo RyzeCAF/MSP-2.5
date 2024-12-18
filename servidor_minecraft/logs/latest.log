@@ -121,3 +121,20 @@
 [19:44:38] [Server thread/INFO]: [Not Secure] <RobertoCarlosxd> zzz}
 [19:52:41] [Server thread/INFO]: RobertoCarlosxd has made the advancement [Take Aim]
 [19:52:58] [Server thread/INFO]: RobertoCarlosxd has made the advancement [Hot Stuff]
+[20:02:21] [Server thread/INFO]: RobertoCarlosxd has made the advancement [We Need to Go Deeper]
+[20:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2926ms or 58 ticks behind
+[20:03:00] [Server thread/INFO]: bmppc[/[0:0:0:0:0:0:0:1%0]:51860] logged in with entity id 31050 at (340.39493437056103, 70.0, 189.60836407408604)
+[20:03:00] [Server thread/INFO]: bmppc joined the game
+[20:03:11] [Server thread/INFO]: mariid_d was shot by Skeleton
+[20:03:29] [Server thread/INFO]: Villager cmk['Villager'/30824, l='ServerLevel[world]', x=325.70, y=50.75, z=255.65] died, message: 'Villager was slain by Zombie'
+[20:06:30] [Server thread/INFO]: mariid_d lost connection: Timed out
+[20:06:30] [Server thread/INFO]: mariid_d left the game
+[20:07:46] [Server thread/INFO]: bmppc lost connection: Timed out
+[20:07:46] [Server thread/INFO]: bmppc left the game
+[20:12:02] [Server thread/INFO]: mariid_d[/[0:0:0:0:0:0:0:1%0]:39916] logged in with entity id 33637 at (266.0789179239152, 71.0, -3.5432233678515814)
+[20:12:02] [Server thread/INFO]: mariid_d joined the game
+[20:12:06] [Server thread/INFO]: RobertoCarlosxd lost connection: Timed out
+[20:12:06] [Server thread/INFO]: RobertoCarlosxd left the game
+[20:13:24] [Server thread/INFO]: bmppc[/[0:0:0:0:0:0:0:1%0]:47630] logged in with entity id 33969 at (263.9268556881227, 71.0, -2.749018882643179)
+[20:13:24] [Server thread/INFO]: bmppc joined the game
+[20:18:34] [Server thread/INFO]: bmppc has made the advancement [Not Today, Thank You]
