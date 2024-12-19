@@ -268,6 +268,7 @@
       "potato": "2024-12-19 00:00:56 +0000",
       "cooked_beef": "2024-12-18 21:56:12 +0000",
       "beef": "2024-12-18 18:50:36 +0000",
+      "baked_potato": "2024-12-19 00:20:52 +0000",
       "porkchop": "2024-12-18 18:49:55 +0000"
     },
     "done": false
@@ -1105,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 00:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-19 00:10:36 +0000"
@@ -1286,6 +1293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-19 00:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 23:47:26 +0000"
@@ -1352,6 +1365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 00:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-19 00:02:11 +0000"
@@ -1376,6 +1395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 00:21:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 23:47:26 +0000"
@@ -1394,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-19 00:18:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 23:47:26 +0000"
@@ -1403,6 +1434,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-18 23:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-19 00:21:26 +0000"
     },
     "done": true
   },
