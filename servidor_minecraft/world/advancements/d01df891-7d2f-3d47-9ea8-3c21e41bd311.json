@@ -1204,6 +1204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 01:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-19 00:22:36 +0000"
@@ -1219,6 +1225,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 23:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2024-12-19 01:24:51 +0000"
     },
     "done": true
   },
@@ -1268,6 +1280,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-18 23:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-19 01:23:39 +0000"
     },
     "done": true
   },
@@ -1391,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-19 01:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-19 00:50:54 +0000"
@@ -1424,6 +1448,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-18 23:35:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-19 01:24:52 +0000"
     },
     "done": true
   },
@@ -1496,6 +1526,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-18 23:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-19 01:24:52 +0000"
     },
     "done": true
   },
@@ -1592,6 +1628,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-19 00:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-19 01:23:39 +0000"
     },
     "done": true
   },
