@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 23:53:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-18 21:33:44 +0000"
@@ -365,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-18 23:53:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-18 20:30:52 +0000"
@@ -488,6 +500,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-18 20:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-18 23:53:08 +0000"
     },
     "done": true
   },
@@ -1113,6 +1131,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-18 23:58:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-18 23:49:23 +0000"
@@ -1206,7 +1230,8 @@
       "cooked_mutton": "2024-12-18 21:43:04 +0000",
       "potato": "2024-12-18 22:03:09 +0000",
       "cooked_cod": "2024-12-18 21:39:39 +0000",
-      "cooked_beef": "2024-12-18 21:53:35 +0000"
+      "cooked_beef": "2024-12-18 21:53:35 +0000",
+      "beetroot": "2024-12-18 23:55:50 +0000"
     },
     "done": false
   },

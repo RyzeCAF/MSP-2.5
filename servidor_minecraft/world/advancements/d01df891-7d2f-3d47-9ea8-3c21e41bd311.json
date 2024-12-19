@@ -265,6 +265,7 @@
       "bread": "2024-12-18 18:57:35 +0000",
       "rotten_flesh": "2024-12-18 18:45:04 +0000",
       "cooked_mutton": "2024-12-18 18:54:29 +0000",
+      "potato": "2024-12-19 00:00:56 +0000",
       "cooked_beef": "2024-12-18 21:56:12 +0000",
       "beef": "2024-12-18 18:50:36 +0000",
       "porkchop": "2024-12-18 18:49:55 +0000"
@@ -703,7 +704,8 @@
       "minecraft:skeleton": "2024-12-18 18:55:46 +0000",
       "minecraft:spider": "2024-12-18 21:04:31 +0000",
       "minecraft:zombie": "2024-12-18 18:58:47 +0000",
-      "minecraft:creeper": "2024-12-18 21:04:15 +0000"
+      "minecraft:creeper": "2024-12-18 21:04:15 +0000",
+      "minecraft:drowned": "2024-12-19 00:00:11 +0000"
     },
     "done": false
   },
@@ -1132,6 +1134,18 @@
       "has_potato": "2024-12-18 23:35:55 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 23:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2024-12-18 23:55:57 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
