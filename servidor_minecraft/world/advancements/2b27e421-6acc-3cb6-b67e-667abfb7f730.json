@@ -764,6 +764,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-18 23:03:53 +0000",
+      "minecraft:enderman": "2024-12-19 00:39:19 +0000",
       "minecraft:spider": "2024-12-18 23:42:01 +0000",
       "minecraft:zombie": "2024-12-18 23:04:39 +0000",
       "minecraft:creeper": "2024-12-18 23:39:22 +0000"
@@ -1055,6 +1056,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-18 23:03:25 +0000",
+      "bread": "2024-12-19 00:36:22 +0000",
       "rotten_flesh": "2024-12-19 00:00:27 +0000",
       "baked_potato": "2024-12-18 23:09:45 +0000"
     },
